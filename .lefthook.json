@@ -1,0 +1,11 @@
+{
+  "pre-commit": {
+    "commands": {
+      "prettier": {
+        "glob": "*.{json,md}",
+        "run": "npx prettier --check {staged_files}"
+      }
+    },
+    "parallel": true
+  }
+}
