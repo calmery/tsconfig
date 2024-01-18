@@ -4,8 +4,8 @@
   },
   "description": "TypeScript configuration",
   "devDependencies": {
-    "lefthook": "1.5.2",
-    "prettier": "3.0.3"
+    "lefthook": "1.5.7",
+    "prettier": "3.2.4"
   },
   "engines": {
     "node": ">=18.0.0"
@@ -21,7 +21,7 @@
   "name": "@calmery/tsconfig",
   "packageManager": "npm@10.2.3",
   "peerDependencies": {
-    "typescript": "^5.2.2"
+    "typescript": "^5.3.3"
   },
   "repository": {
     "type": "git",
